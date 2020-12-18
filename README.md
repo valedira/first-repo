@@ -6,6 +6,6 @@ Description.
 
 learning git and github
 
-## local Development
+## local development
 
 1. Open index.html in your browser.
